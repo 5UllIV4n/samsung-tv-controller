@@ -1,4 +1,4 @@
-# samsung-tv-controller (BETA)
+# samsung-tv-controller (WIP)
 
 Prerequisites
 
@@ -83,5 +83,5 @@ Connection Refused: Some newer TVs require you to go into Settings > General > E
 App IDs: The numbers in tv.openApp('111299001912') are specific to the Samsung App Store. If YouTube doesn't open, your region might use a different ID.
 
 
-# WARNNING: this is still a beta and I'm still working on it, twin.
+# WARNNING: this is still a WIP/beta and I'm still working on it, twin.
 
